@@ -297,12 +297,12 @@ async function createAgentConfig(options) {
               }
             }
           ],
-          tool_ids: [
-            "ynkWMyhMnGlLHAv7o5XI", 
-            "OWO956TMCS1s6dN1jgp9", 
-            "yzW6vNfJybNSU8Q8YJeo",
-            "4llGAKqlunOuAWS1pfBv"  
-          ],
+         /**tool_ids: [
+          //  "ynkWMyhMnGlLHAv7o5XI", 
+          //  "OWO956TMCS1s6dN1jgp9", 
+          //  "yzW6vNfJybNSU8Q8YJeo",
+          //  "4llGAKqlunOuAWS1pfBv"  
+          ],*/
           mcp_server_ids: [],
           knowledge_base: [],
           custom_llm: null,
